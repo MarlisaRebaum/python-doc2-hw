@@ -8,3 +8,6 @@ Day 2 of the Python unit as part of my coding bootcamp.
 - List Comprehensions
 - Tuples
 - Functions
+
+## Technologies Used:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
